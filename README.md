@@ -9,3 +9,6 @@
 - To tackle this problem, we've built "SubSavers" - An AI-powered financial assistant that helps users save money by tracking subscriptions, analyzing usage, and enabling one-click cancellations. It identifies underused services, sends reminders before free trials convert to paid plans, and simplifies subscription management—all in one place.
 
 
+- Figma Design - https://www.figma.com/design/urgOKBxrJoMpsi0IULu4Lz/Finance-App-UI-KIt-(Community)?node-id=5-2&t=RrqOSO0RmorAfHHs-1
+
+
